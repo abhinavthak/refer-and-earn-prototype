@@ -4,6 +4,8 @@ A clickable prototype of a referral programme for an online university. Referrer
 
 **Live demo:** https://abhinavthak.github.io/refer-and-earn-prototype/
 
+**Product requirements:** see [PRD.md](PRD.md)
+
 ## Screens
 
 Use the **View** bar at the top of the page to switch between them.
